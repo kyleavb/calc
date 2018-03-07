@@ -58,7 +58,6 @@ class Calculator extends Component{
   }
 
   render(){
-
     return(
       <div className="container">
         <h1>Add with React!</h1>
